@@ -3,3 +3,100 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+/*CÓDIGO DO HEADER*/
+
+header {
+    background-color: pink;
+    width: 100vw;
+    height: 80px;
+}
+
+.section-one>h1 {
+    margin-left: 100px;
+    padding-top: 80px;
+    font-size: 58px;
+    width: 40%;
+}
+
+.section-one>h2 {
+    margin-left: 100px;
+    padding-top: 3px;
+    width: 40%;
+    font-size: 48px;
+    font-style: bold;
+    margin-bottom: 10px;
+}
+
+.section-one>a {
+    color: rgb(255, 145, 77);
+    margin-left: 100px;
+    text-decoration: none;
+    font-style: bold;
+    font-size: 25px;
+}
+
+.section-one>img {
+    width: 500px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -320px;
+}
+
+.section-two {
+    width: 100vw;
+    margin-top: 300px;
+    padding-left: 100px;
+    background-color: #f4f4f4;
+    padding-top: 120px;
+    padding-bottom: 100px;
+}
+
+.section-two>h1 {
+    width: 40%;
+    font-style: bold;
+    font-size: 58px;
+    margin-bottom: 5px;
+}
+
+.section-two>p {
+    font-size: 25px;
+    color: #111111;
+    width: 40%;
+}
+
+.section-two>img {
+    width: 600px;
+    float: right;
+    margin-right: 100px;
+    margin-top: -320px;
+}
+
+.section-three {
+    width: 100vw;
+    background-color: rgb(255, 145, 77);
+}
+
+.section-three>img {
+    width: 500px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-left: 100px;
+}
+
+.section-three>h1 {
+    font-size: 40px;
+    float: right;
+    color: white;
+    margin-right: 400px;
+    padding-top: 100px;
+    font-style: bold;
+}
+
+.section-three>p {
+    float: right;
+    margin-right: 300px;
+    color: white;
+    display: inline-block;
+}
